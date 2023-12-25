@@ -13,5 +13,5 @@ SMT-01 is compatible with various microcontrollers and has a shielded cable.
 - Dimensions:                60x24x14 mm
 - Cable length:              90 mm
 
-Examples of electrical connection of the sensor for [Arduino](https://github.com/greensensors/SMH-Soil-Moisture-Sensor/blob/main/SMT-Arduino.jpg) 
+Examples of electrical connection of the sensor for [Arduino](https://github.com/greensensors/SMH-Soil-Moisture-Sensor/blob/main/SMT-Arduino.JPG) 
 and [software](https://github.com/greensensors/SMH-Soil-Moisture-Sensor/blob/main/SMH_Arduino_example.ino) are included.
